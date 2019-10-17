@@ -72,7 +72,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Lampka, Silke
 
-- [X] Larson, Thomas (@thomaslarson7)
+- [X] Larson, Thomas (@thomaslarson7) #HowDoYouMonetiseThat?
 
 - [ ] Lau, Sharon
 
@@ -116,7 +116,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Tan, Deborah
 
-- [ ] Tomlinson, Kate
+- [ ] Tomlinson, Kate 
 
 - [ ] Tortorello, Matt
 
